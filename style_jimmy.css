@@ -1,0 +1,18 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+body {
+    background-image: url("https://previews.123rf.com/images/msmoloko/msmoloko1703/msmoloko170300058/73330858-bright-tropical-background-with-jungle-plants-seamless-vector-exotic-pattern-with-green-phoenix-palm.jpg");
+  }
+
+h1 {
+    text-align: center;
+  }
+
+h2 {
+    text-align: center;
+  }
